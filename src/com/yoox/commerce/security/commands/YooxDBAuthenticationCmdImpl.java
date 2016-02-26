@@ -6,7 +6,7 @@ import com.ibm.commerce.exception.ECException;
 import com.ibm.commerce.security.commands.DBAuthenticationCmd;
 import com.ibm.commerce.security.commands.DBAuthenticationCmdImpl;
 
-
+///Changed by Naveen
 
 public class YooxDBAuthenticationCmdImpl extends DBAuthenticationCmdImpl    
 implements DBAuthenticationCmd
